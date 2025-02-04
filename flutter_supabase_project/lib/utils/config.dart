@@ -1,0 +1,2 @@
+const String projectUrl = 'https://osxnoxollswbazmkhtsu.supabase.co';
+const String apiKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9zeG5veG9sbHN3YmF6bWtodHN1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg2NTEyNjEsImV4cCI6MjA1NDIyNzI2MX0.lD1kYZSrtJrqQn2es41GsqNrHIkDLxEugdzLfy8lHOc';
